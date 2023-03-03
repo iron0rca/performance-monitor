@@ -27,3 +27,4 @@ python performance-monitor.py
 
 打开aida64中将监测数据写入注册表
 读取注册表中的数据并用matplotlib绘制图像
+保持程序运行,即可实时监测系统性能
