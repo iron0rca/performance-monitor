@@ -26,3 +26,4 @@ python performance-monitor.py
 ![](https://github.com/iron0rca/performance-monitor/blob/master/image/2.jpg)
 
 打开aida64中将监测数据写入注册表
+读取注册表中的数据并用matplotlib绘制图像
